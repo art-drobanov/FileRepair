@@ -1,2 +1,2 @@
 # FileRepair
-Damaged file correction via bit level voting
+Damaged file correction via bit-level voting
